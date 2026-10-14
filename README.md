@@ -7,9 +7,10 @@ Example: changing the start and end date, destination, expenses of the trip.
 
 Technologies used 
 
-Front end: Html,CSS,React.js,
-Backend: node.js,express.js,rest APIs,
-Database: MYSQL,
+Front end: Html,CSS,React.js
+
+Backend: node.js,express.js,rest APIs
+Database: MYSQL
 LLM-Intgerated: Google Gemini API.
 
 Project Structure
